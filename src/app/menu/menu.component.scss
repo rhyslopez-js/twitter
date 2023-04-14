@@ -1,0 +1,20 @@
+.nav-item{
+    font-weight: 500;
+    list-style: none;
+}
+
+a::after, a{
+    text-decoration: none;
+    border-radius: 40px;
+    padding: 15px;
+    color: #e1e1e1;
+}
+
+a:hover{
+    background-color: grey;
+    transition: ease 0.5s;
+}
+
+
+
+
